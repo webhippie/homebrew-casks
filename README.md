@@ -8,7 +8,7 @@ Homebrew repository to install casks maintained by us.
 
 ## Prepare
 
-```bash
+```console
 brew tap webhippie/casks
 ```
 
@@ -16,13 +16,13 @@ brew tap webhippie/casks
 
 ### [imusic](https://imusic.aimersoft.com/)
 
-```bash
+```console
 brew cask install imusic
 ```
 
 ## Development
 
-```bash
+```console
 rake test
 ```
 
@@ -36,7 +36,7 @@ Fork -> Patch -> Push -> Pull Request
 
 ## Authors
 
-* [Thomas Boerger](https://github.com/tboerger)
+*  [Thomas Boerger](https://github.com/tboerger)
 
 ## License
 
@@ -44,6 +44,6 @@ Apache-2.0
 
 ## Copyright
 
-```
+```console
 Copyright (c) 2020 Thomas Boerger <thomas@webhippie.de>
 ```
