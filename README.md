@@ -14,6 +14,12 @@ brew tap webhippie/casks
 
 ## Install
 
+### [bill](https://billtheapp.com/)
+
+```console
+brew cask install bill
+```
+
 ### [imusic](https://imusic.aimersoft.com/)
 
 ```console
