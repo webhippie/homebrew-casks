@@ -14,6 +14,12 @@ brew tap webhippie/casks
 
 ## Install
 
+### [anka-build](https://veertu.com/)
+
+```console
+brew cask install anka-build
+```
+
 ### [bill](https://billtheapp.com/)
 
 ```console
