@@ -5,4 +5,6 @@ cask "anka-build" do
   url "https://d1efqjhnhbvc57.cloudfront.net/Anka-#{version}.pkg"
   name "Anka Build"
   homepage "https://veertu.com/"
+
+  pkg "Anka-#{version}.pkg"
 end
