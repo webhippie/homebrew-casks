@@ -1,8 +1,8 @@
 cask "anka-build" do
-  version "2.2.2.116"
-  sha256 "72b01734ef1e53f93f809eee31257c418424ee8afa1616e99063c8fbceeed5cf"
+  version "2.5.3.135"
+  sha256 "c0218c48b63d35a23fc95aa6ea781ec04381510dc7b04d6dfa536a3661eadc0d"
 
-  url "https://d1efqjhnhbvc57.cloudfront.net/Anka-#{version}.pkg"
+  url "https://downloads.veertu.com/anka/Anka-#{version}.pkg"
   name "Anka Build"
   homepage "https://veertu.com/"
 
