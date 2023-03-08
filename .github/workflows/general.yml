@@ -26,10 +26,10 @@ jobs:
 
       - name: Run lint
         id: lint
-        run: rake rubocop
+        run: bundle exec rake rubocop
 
       - name: Run test
         id: test
-        run: rake test
+        run: bundle exec rake test
 
 ...
