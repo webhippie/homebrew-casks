@@ -2,7 +2,7 @@
     "extends": [
         "config:base",
         ":semanticCommits",
-        ":semanticCommitType(deps)",
+        ":semanticCommitType(deps)"
     ],
     "packageRules": [
         {
