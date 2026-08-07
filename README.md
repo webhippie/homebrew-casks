@@ -1,6 +1,6 @@
 # Homebrew: Casks
 
-[![Build Status](https://github.com/webhippie/homebrew-casks/actions/workflows/general.yml/badge.svg)](https://github.com/webhippie/homebrew-casks/actions/workflows/general.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/bb814546198e4d2d858103078c05463e)](https://www.codacy.com/gh/webhippie/homebrew-casks/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=webhippie/homebrew-casks&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://github.com/webhippie/homebrew-casks/actions/workflows/general.yml/badge.svg)](https://github.com/webhippie/homebrew-casks/actions/workflows/general.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/bb814546198e4d2d858103078c05463e)](https://app.codacy.com/gh/webhippie/homebrew-casks/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 Homebrew repository to install casks maintained by us.
 
